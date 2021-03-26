@@ -8,3 +8,10 @@
     </a>
 </p>
 
+
+
+<p align="center">
+    <a href="https://twitter.com/Amador0895">
+        <img src="https://img.shields.io/twitter/follow/Amador0895?label=Twitter&style=social" alt="Twitter iosamuel">
+    </a>
+</p>
