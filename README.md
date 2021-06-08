@@ -1,6 +1,6 @@
 # Hi! I am Osvaldo Daniel Amador Salinas 👋
 
-### Web developer in process.
+### Web developer in process. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
 🧠 Learning **JavaScript**.
 
