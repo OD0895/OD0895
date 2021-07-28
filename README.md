@@ -7,6 +7,8 @@
 ✍ I have learned other tools like:
 * Git
 * PHP
+* NodeJs
+* React
 * Angular
 * SQL (MySql, PostgreSQL, SQLServer)
 * NoSQL (MongoDB)
